@@ -1,0 +1,2 @@
+# recepie-django
+Django app
